@@ -1,0 +1,12 @@
+{
+   "token": "MTQyNDA2OTk3MjA0MDM1NTk4Mg.GjD9Da.Q6SrmxP1Y37nP5WzEPJ5sRmdqeSSuQC8ABZM_I",
+   "color": "#ff8d00",
+   "prefix": "PREFIX",
+   "name": "ζ͜͡Crow Bots",
+   "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
+   "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
+   "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
+   "owner": [
+      "1388332281365659728"
+   ]
+}
